@@ -1,19 +1,19 @@
-News Website (Laravel)
+# News Website (Laravel)
 
-Introduction
-
+## Introduction
 This is a Laravel-based news website that allows users to read, post, and manage news articles. The project is designed with modern web development best practices and includes features such as authentication, categories, and a responsive UI.
 
-Features
+## Features
+- News categories and filtering
+- Admin panel for news management
+- Responsive design
 
-User authentication (Login/Register)
+## Installation
 
-News categories and filtering
-
-Admin panel for news management
-
-Commenting system
-
-Responsive design
-
-SEO-friendly URLs
+### Prerequisites
+Ensure you have the following installed on your system:
+- PHP (>= 8.0)
+- Composer
+- Laravel (>= 9.x)
+- MySQL or PostgreSQL
+- Node.js & npm (for frontend assets)
