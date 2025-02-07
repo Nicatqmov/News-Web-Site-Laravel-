@@ -14,5 +14,5 @@ Ensure you have the following installed on your system:
 - PHP (>= 8.0)
 - Composer
 - Laravel (>= 9.x)
-- MySQL or PostgreSQL
+- MySQL 
 - Node.js & npm (for frontend assets)
