@@ -8,7 +8,6 @@ This is a Laravel-based news website that with advanced admin panel features
 - Admin panel for news management
 - Responsive design
 
-## Installation
 
 ### Prerequisites
 Ensure you have the following installed on your system:
